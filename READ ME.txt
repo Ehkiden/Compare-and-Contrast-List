@@ -1,0 +1,5 @@
+Good Example for:
+Map creation and use
+Reading from a file
+Using command line prompts 
+Comparing maps of data
